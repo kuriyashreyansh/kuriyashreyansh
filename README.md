@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=600&lines=Math+%26+Computing+%40+SVNIT+Surat;Building+ML+models+from+scratch%2C+not+just+.fit();Search+Engines+%7C+Fraud+Detection+%7C+ML+Systems;Currently+chasing%3A+understanding+over+shortcuts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&width=800&height=50&lines=Math+%26+Computing+%40+SVNIT+Surat;Building+models+from+scratch%2C+not+just+.fit();Search+Engines+%7C+Fraud+Detection+%7C+ML+Systems;Understanding+over+shortcuts%2C+always" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -108,7 +108,7 @@ Applied ML projects that don't stop at the notebook — anything that pairs mode
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuriyashreyansh&theme=dark&hide_border=true&background=0d1117&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" width="80%"/>
+<img src="https://streak-stats.demolab.com/?user=kuriyashreyansh&theme=dark&hide_border=true&background=0d1117&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" width="80%"/>
 
 <br/><br/>
 
