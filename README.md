@@ -75,7 +75,7 @@ Applied ML projects that don't stop at the notebook — anything that pairs mode
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0d1117)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0d1117)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117)
-![XGBoost](https://img.shields.io/badge/XGBoost-2C5364-?style=for-the-badge&labelColor=0d1117)
+![XGBoost](https://img.shields.io/badge/XGBoost-2C5364?style=for-the-badge&labelColor=0d1117)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=0d1117)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0d1117)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0d1117)
@@ -86,16 +86,28 @@ Applied ML projects that don't stop at the notebook — anything that pairs mode
 
 ### 🚀 Featured Projects
 
-<div align="center">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/kuriyashreyansh/search-engine-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kuriyashreyansh&repo=search-engine-project&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364" />
-</a>
-<a href="https://github.com/kuriyashreyansh/fraud-detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kuriyashreyansh&repo=fraud-detection&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364" />
-</a>
+**🔍 [Search Engine from Scratch](https://github.com/kuriyashreyansh/search-engine-project)**
 
-</div>
+Custom inverted index, TF-IDF ranking, and Trie-based autocomplete — built the core data structures instead of importing a library.
+
+`Python` `PostgreSQL` `Data Structures`
+
+</td>
+<td width="50%" valign="top">
+
+**🕵️ [Fraud Detection System](https://github.com/kuriyashreyansh/fraud-detection)**
+
+Random Forest & XGBoost model comparison, Flask web app, PostgreSQL prediction logging, admin dashboard.
+
+`scikit-learn` `XGBoost` `Flask`
+
+</td>
+</tr>
+</table>
 
 ---
 
