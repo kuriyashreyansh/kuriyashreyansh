@@ -31,6 +31,34 @@ class Shreyansh:
 
 ---
 
+### 🎓 Education
+
+**B.Tech in Mathematics and Computing** — SVNIT Surat *(2025 – 2029, currently 2nd Year)*
+
+A degree that pairs pure math (linear algebra, probability, real analysis) with core CS (data structures, OS, networks) — chosen deliberately to support deeper ML theory later, not just tool usage.
+
+### 📜 Certifications
+
+🏅 **Deloitte — Data Analytics & Forensic Technology** *(Forage Virtual Experience Program)*
+
+---
+
+### 🎯 Career Roadmap
+
+```
+2nd Year   ──▶  Building ML + backend fundamentals (search engine, fraud detection)
+               │
+Sem 5–6    ──▶  Math Modelling · OS · Data Visualization · Theory of Computation
+               │  + self-driven MLOps / Docker MOOC
+Sem 7      ──▶  Neural Networks · Big Data Analytics · NLP · Cloud Computing
+               │
+Target     ──▶  ML Engineer  →  Applied Scientist / Research Engineer
+               │
+Fork Point ──▶  M.Tech + Cloud ML Certs (AWS/GCP)   OR   MS in ML/CS/Applied Math abroad
+```
+
+---
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -111,20 +139,21 @@ Random Forest & XGBoost model comparison, Flask web app, PostgreSQL prediction l
 
 ---
 
-### 📊 GitHub Stats
+### 📈 Skill Snapshot
+
+```
+Python               ████████████████░░░░  80%
+ML (sklearn/XGBoost) ██████████████░░░░░░  70%
+Flask / Backend      █████████████░░░░░░░  65%
+SQL / PostgreSQL     ██████████████░░░░░░  70%
+Docker / DevOps      ██████░░░░░░░░░░░░░░  30%  (currently learning)
+```
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kuriyashreyansh&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364&icon_color=2c5364&ring_color=2c5364" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuriyashreyansh&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=2c5364" width="30%"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=kuriyashreyansh&theme=dark&hide_border=true&background=0d1117&ring=2c5364&fire=2c5364&currStreakLabel=2c5364" width="80%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kuriyashreyansh&theme=github-compact&hide_border=true&bg_color=0d1117&color=2c5364&line=2c5364&point=ffffff" width="90%"/>
+![Python](https://img.shields.io/badge/Most%20Used-Python-2c5364?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Applied%20ML%20%2B%20Systems-2c5364?style=flat-square)
+![Streak](https://img.shields.io/badge/Approach-Build%20it%20from%20scratch-2c5364?style=flat-square)
 
 </div>
 
@@ -141,6 +170,8 @@ Random Forest & XGBoost model comparison, Flask web app, PostgreSQL prediction l
 ### 📫 Let's Connect
 
 <a href="https://github.com/kuriyashreyansh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/shreyansh-kuriya-339551396/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kuriyashreyansh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/><br/>
 
